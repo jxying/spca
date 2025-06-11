@@ -12,9 +12,6 @@ If you use this code or algorithm in your research, please cite:
 > **Fast and Provable Algorithms for Sparse PCA with Improved Sample Complexity**,  
 > International Conference on Machine Learning (ICML), 2025.
 
-## License
-
-See [LICENSE.txt](LICENSE.txt) for licensing information.
 
 ## Getting Started
 
