@@ -1,4 +1,4 @@
-# spca
+# SPCA
 
 # Fast and Provable Algorithms for Sparse PCA with Improved Sample Complexity
 
@@ -8,9 +8,7 @@ This Python package provides efficient implementations of algorithms for sparse 
 
 If you use this code or algorithm in your research, please cite:
 
-> Jian-Feng Cai, Zhuozhi Xian, and Jiaxi Ying,  
-> **Fast and Provable Algorithms for Sparse PCA with Improved Sample Complexity**,  
-> International Conference on Machine Learning (ICML), 2025.
+Jian-Feng Cai, Zhuozhi Xian, and Jiaxi Ying, **Fast and Provable Algorithms for Sparse PCA with Improved Sample Complexity**, International Conference on Machine Learning (ICML), 2025.
 
 
 ## Getting Started
